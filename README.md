@@ -1,2 +1,2 @@
 # akashcollege-demo
-Author - Akash kumar
+Author - Akash kumar(pal)
